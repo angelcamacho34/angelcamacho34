@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Angel%20Camacho%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%207%2B%20Years%20of%20Crafting%20Digital%20Experiences&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:154171,100:0d1b2a&height=205&section=header&text=Hey%20there!%20I'm%20Angel%20Camacho%20👋&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%207%2B%20Years%20of%20Crafting%20Digital%20Experiences&descAlignY=50&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5a2a7b&center=true&vCenter=true&width=600&lines=Angular+%7C+Ionic+%7C+Capacitor+Developer;Mobile+Apps+for+Android+%26+iOS;AWS+Cloud+Architect;AI+Enthusiast+%F0%9F%A4%96;7%2B+Years+Building+Amazing+UIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5a2a7b&center=true&vCenter=true&width=600&lines=Angular+%7C+Ionic+%7C+Capacitor+Developer;Mobile+Apps+for+Android+%26+iOS;AI+Enthusiast+%F0%9F%A4%96;7%2B+Years+Building+Amazing+UIs)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,11 +38,12 @@ const me = {
 ### 📱 Mobile Platforms
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white)
 
 ### ☁️ Cloud & AI
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
@@ -90,7 +91,7 @@ const me = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:154171,100:0d1b2a&height=100&section=footer&animation=fadeIn" />
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=angelcamacho34&color=6AD3F7&style=flat-square&label=Profile+Views)
 
